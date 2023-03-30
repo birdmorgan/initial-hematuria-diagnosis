@@ -73,7 +73,7 @@ tornado @ file:///C:/ci/tornado_1662476985533/work
 traitlets @ file:///C:/b/abs_e5m_xjjl94/croot/traitlets_1671143896266/work
 typing_extensions @ file:///C:/b/abs_89eui86zuq/croot/typing_extensions_1669923792806/work
 urllib3==1.26.15
-viola==0.3.8
+#viola==0.3.8
 voila==0.4.0
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
